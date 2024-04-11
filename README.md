@@ -2,8 +2,7 @@
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE2cHl3ODZpNGJlaXpobmN3emkwaGdkaHJ2eWtkMXhwMXp2YnU3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 <p><em>Full-Stack Developer</em></p>
 
-[![Linkedin: dimascamillo](https://img.shields.io/badge/-dimascamillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/dimas-camillo/))
-
+[![Linkedin: dimascamillo](https://img.shields.io/badge/-dimascamillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas-camillo/)]
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxsZ3VhZXBqaXN3aHZ6dHpyamgydXAwaThhbzM2cGFxMTI0dzFqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50"> A little more about me...  
 
