@@ -65,12 +65,75 @@ console.log("🔥 Transformando ideias em código desde sempre!");
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimascamillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=00f7ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimascamillo&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimascamillo&theme=tokyonight&background=0d1117&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimascamillo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimascamillo&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+## 💚 Atividade de Commits - O Código Nunca Para
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=500&height=50&lines=2%2C149+commits+no+último+ano;Consistência+é+a+chave+do+sucesso;Cada+quadradinho+verde+é+uma+vitória)
+
+</div>
+
+<div align="center">
+  
+### 🔥 **Heatmap de Dedicação**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimascamillo&bg_color=0d1117&color=00ff41&line=00ff41&point=00f7ff&area=true&hide_border=true&custom_title=📈%20Evolução%20Contínua%20-%20Commits%20Diários" />
+
+</div>
+
+<div align="center">
+
+### ⚡ **Streak de Commits - Disciplina em Ação**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimascamillo&theme=dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00f7ff&fire=ff6b6b&currStreakLabel=00ff41&dates=ffffff&sideNums=00f7ff&currStreakNum=00ff41" />
+
+</div>
+
+<div align="center">
+
+### 📊 **Impacto Visual dos Commits**
+
+```
+    🟢 Alta Atividade    🟢 Contribuições Consistentes    🟢 Crescimento Contínuo
+    
+    "Cada commit é um passo em direção à excelência técnica"
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
+
+</div>
+
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/dimas-camillo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:dimascamillo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/SEU_PERFIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://SEU_PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:seuemail@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/SEU_TWITTER)
 
 </div>
 
@@ -101,7 +164,7 @@ const objetivos2025 = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=00f7ff&style=for-the-badge&labelColor=000000" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sdimascamillo&label=Profile%20views&color=00f7ff&style=for-the-badge&labelColor=000000" alt="profile views" />
 
 **⭐ Se gostou do meu trabalho, deixe uma estrela nos repositórios!**
 
